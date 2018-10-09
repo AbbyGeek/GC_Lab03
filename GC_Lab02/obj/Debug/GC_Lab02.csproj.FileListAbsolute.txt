@@ -1,0 +1,7 @@
+C:\Users\awessels\source\repos\GC_Lab02\GC_Lab02\obj\Debug\GC_Lab02.csprojAssemblyReference.cache
+C:\Users\awessels\source\repos\GC_Lab02\GC_Lab02\obj\Debug\GC_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\awessels\source\repos\GC_Lab02\GC_Lab02\bin\Debug\GC_Lab02.exe.config
+C:\Users\awessels\source\repos\GC_Lab02\GC_Lab02\bin\Debug\GC_Lab02.exe
+C:\Users\awessels\source\repos\GC_Lab02\GC_Lab02\bin\Debug\GC_Lab02.pdb
+C:\Users\awessels\source\repos\GC_Lab02\GC_Lab02\obj\Debug\GC_Lab02.exe
+C:\Users\awessels\source\repos\GC_Lab02\GC_Lab02\obj\Debug\GC_Lab02.pdb
